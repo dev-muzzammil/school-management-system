@@ -16,8 +16,3 @@ A Spring Boot based backend application to manage students, teachers, courses, a
 - Maven
 - Spring Tool Suite (STS)
 
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/dev-muzzammil/school-management-system.git
